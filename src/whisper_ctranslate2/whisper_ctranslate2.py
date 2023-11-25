@@ -22,6 +22,7 @@ MODEL_NAMES = [
     "large-v1",
     "large-v2",
     "large-v3",
+    "large",
 ]
 
 
